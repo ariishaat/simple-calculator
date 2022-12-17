@@ -1,5 +1,5 @@
 # simple-calculator
-
+Created this simple calculator with a light and dark mode using HTML, CSS, and JavaScript
 https://codepen.io/ariishaat/pen/OJEKGpr
 
 Resources:
